@@ -1,2 +1,2 @@
 # springcloud-demo
-springcloud study!
+springcloud study demo!
